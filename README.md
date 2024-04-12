@@ -10,7 +10,7 @@ The SQL Murder Mystery was created by Joon Park and Cathy He while they were Kni
 
 ## Credits
 
-Thank you to Joon Park and Cathy He for creating this fun educational resource! 
+Thank you all those involved in creating this fun educational resource! 
 
 The SQL Murder Mystery was created by Joon Park and Cathy He while they were Knight Lab fellows. See the GitHub repository for more information.
 
