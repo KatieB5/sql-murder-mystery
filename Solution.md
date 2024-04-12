@@ -99,4 +99,30 @@ Query the murderer's interview transcript to find the villainous mastermind behi
 
 Find the name of the villain mastermind using the information provided in the killer's transcript.
 
+    SELECT p.name AS name, COUNT(event_name)
+    FROM drivers_license dl
+    JOIN person p
+    ON dl.id = p.license_id
+    JOIN facebook_event_checkin fb
+    ON fb.person_id = p.id
+    WHERE dl.hair_color='red' 
+    AND dl.car_make='Tesla'
+    AND dl.car_model='Model S'
+    AND fb.event_name='SQL Symphony Concert'
+    GROUP BY p.name;
+
+![name of mastermind and frequency of event attendance](image-10.png)
+
+## Step 8
+
+Check the name of the mastermind to see if it's correct!
+
+    INSERT INTO solution VALUES (1, 'Miranda Priestly');
+
+    SELECT value FROM solution; 
+
+![alt text](image-11.png)
+
+Wahoo!!
+
 

@@ -10,9 +10,9 @@ The SQL Murder Mystery was created by Joon Park and Cathy He while they were Kni
 
 ## Credits
 
-Thank you all those involved in creating this fun educational resource! 
+Thank you all those involved in creating this fun educational resource: 
 
-The SQL Murder Mystery was created by Joon Park and Cathy He while they were Knight Lab fellows. See the GitHub repository for more information.
+The SQL Murder Mystery was created by Joon Park and Cathy He while they were Knight Lab fellows. See the GitHub repository [here](https://github.com/NUKnightLab/sql-mysteries) for more information.
 
 Adapted and produced for the web by Joe Germuska.
 
@@ -20,7 +20,7 @@ This mystery was inspired by a crime in the neighboring Terminal City.
 
 Web-based SQL is made possible by SQL.js.
 
-SQL query custom web components created and released to the public domain by Zi Chong Kao, creator of Select Star SQL.
+SQL query custom web components created and released to the public domain by Zi Chong Kao, creator of [Select Star SQL](https://selectstarsql.com/).
 
 Detective illustration courtesy of Vectors by Vecteezy.
 
