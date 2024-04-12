@@ -1,7 +1,7 @@
-#SQL Murder Mystery
+# SQL Murder Mystery
 
 ## Introduction
-The SQL Murder Mystery was created by Joon Park and Cathy He while they were Knight Lab fellows. It's a fun game for experienced SQL users to solve an intriguing crime if, like me, you love puzzles and coding in equal measure! 😅
+The SQL Murder Mystery was created by Joon Park and Cathy He while they were Knight Lab fellows. It's a fun game for experienced SQL users to solve an intriguing crime if, like me, you love puzzles and coding in equal measure! 😅 All the clues to the murder mystery are buried in a database, and you need to use SQL to navigate the vast network of information.
 
 ## Get started
 1. Take a look through the Solution.md file to see my approach to solving the murder, and the sql code I wrote to do so.
